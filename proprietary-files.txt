@@ -282,7 +282,6 @@ vendor/etc/sensors/config/bmp285_0.json
 vendor/etc/sensors/config/sdm845_power_0.json
 vendor/etc/sensors/config/sns_nonui.json
 vendor/etc/sensors/config/sdm845_ak991x_0.json
-vendor/etc/sensors/hals.conf
 
 # Snapdragon Computer Vision Engine
 vendor/lib64/libscveFaceLandmarks.so
