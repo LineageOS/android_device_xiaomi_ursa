@@ -22,6 +22,30 @@
       },
       "revId": "74a43d48fcd39c256a86f27692d49b1d04872b14",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "d64e9965_16971198",
+        "filename": "BoardConfig.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2022-03-03T21:55:37Z",
+      "side": 1,
+      "message": "I guess it\u0027s fine since device/xiaomi/sdm845-common/BoardConfigCommon.mk is included before this.",
+      "parentUuid": "cc3fe089_fc0d8e99",
+      "range": {
+        "startLine": 21,
+        "startChar": 39,
+        "endLine": 21,
+        "endChar": 50
+      },
+      "revId": "74a43d48fcd39c256a86f27692d49b1d04872b14",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
