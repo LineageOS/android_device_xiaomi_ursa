@@ -21,7 +21,7 @@ TARGET_SCREEN_DENSITY := 440
 TARGET_KERNEL_CONFIG := ursa_defconfig
 
 # Fingerprint
-TARGET_SURFACEFLINGER_UDFPS_LIB := //$(COMMON_PATH):libudfps_extension.xiaomi_sdm845
+TARGET_SURFACEFLINGER_UDFPS_LIB := //hardware/xiaomi:libudfps_extension.xiaomi
 TARGET_USES_FOD_ZPOS := true
 
 # HIDL
