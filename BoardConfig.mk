@@ -18,7 +18,7 @@ TARGET_OTA_ASSERT_DEVICE := ursa
 TARGET_SCREEN_DENSITY := 440
 
 # Kernel
-TARGET_KERNEL_CONFIG := ursa_defconfig
+TARGET_KERNEL_CONFIG += vendor/xiaomi/ursa.config
 
 # Fingerprint
 TARGET_SURFACEFLINGER_UDFPS_LIB := //hardware/xiaomi:libudfps_extension.xiaomi
