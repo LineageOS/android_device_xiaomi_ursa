@@ -1,5 +1,5 @@
 #
-# Copyright (C) 2018-2024 The LineageOS Project
+# Copyright (C) 2018-2025 The LineageOS Project
 #
 # SPDX-License-Identifier: Apache-2.0
 #
@@ -21,7 +21,6 @@ TARGET_SCREEN_DENSITY := 440
 TARGET_KERNEL_CONFIG += vendor/xiaomi/ursa.config
 
 # Fingerprint
-TARGET_SURFACEFLINGER_UDFPS_LIB := //hardware/xiaomi:libudfps_extension.xiaomi
 TARGET_USES_FOD_ZPOS := true
 
 # HIDL
